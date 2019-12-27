@@ -1,3 +1,6 @@
+require 'rubygems'
+require 'sinatra'
+
 $LOAD_PATH << File.join(__dir__)
 require 'app/index'
 require 'app/api'
