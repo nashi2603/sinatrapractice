@@ -1,11 +1,11 @@
 # index
 
-`/`
+`/` 
 indexページ
 
 ## auth
 
-* **API鍵の認証
+* API鍵の認証
 Tokenで認証
 
 ## Service
@@ -13,7 +13,7 @@ Tokenで認証
 ### Get
 
 `/api/v1/get`
-* 参照
+* 参照 
 投稿の各種情報をjsonで取得。
 
 ### Post
@@ -34,16 +34,16 @@ Tokenで認証
 
 ## アカウント登録ページ
 
-`/user/profile`
-`/user/profile/settings`
-アカウント登録
-パスワード変更
-メールアドレス変更
+`/user/profile` 
+`/user/profile/settings` 
+* アカウント登録
+* パスワード変更
+* メールアドレス変更
 
 ## developerページ
 
-`/develop`
-`/develop/apis`
-APIの管理ページ
-Tokenの取得、削除をページ上で行う
+`/develop` 
+`/develop/apis` 
+* APIの管理ページ
+* Tokenの取得、削除をページ上で行う
 
