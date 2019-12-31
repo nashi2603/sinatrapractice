@@ -1,5 +1,9 @@
 require 'sinatra/base'
 
+configure {
+    set :server, :puma
+}
+
 class Index < Sinatra::Base
     get '/' do
         # 'Hello Sinatra.'
