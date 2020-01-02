@@ -2,4 +2,5 @@ vendor
 .bundle
 tmp
 logs
+Gemfile.lock
 
